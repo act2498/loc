@@ -1,8 +1,8 @@
 {
-	"blt_options_menu_blt_mods" : "已安裝的模組",
-	"blt_options_menu_blt_mods_desc" : "檢查、開關你已安裝的模組",
-	"blt_options_menu_lua_mod_options" : "模組按鍵",
-	"blt_options_menu_lua_mod_options_desc" : "修改模組的按鍵",
+	"base_options_menu_lua_mods" : "已安裝的模組",
+	"base_options_menu_lua_mods_desc" : "檢查、開關你已安裝的模組",
+	"base_options_menu_keybinds" : "模組按鍵",
+	"base_options_menu_keybinds_desc" : "修改模組的按鍵",
 	"base_options_menu_lua_mod_options" : "模組設定",
 	"base_options_menu_lua_mod_options_desc" : "個人化你已安裝的模組",
 
