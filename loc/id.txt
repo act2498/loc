@@ -1,8 +1,8 @@
 {
-	"blt_options_menu_blt_mods" : "Lua Mods",
-	"blt_options_menu_blt_mods_desc" : "Cek status, mengaktifkan dan menonaktifkan mods Lua Anda yang terpasang",
-	"blt_options_menu_lua_mod_options" : "Mod Keybinds",
-	"blt_options_menu_lua_mod_options_desc" : "Atur keybinds untuk modifikasi lua",
+	"base_options_menu_lua_mods" : "Lua Mods",
+	"base_options_menu_lua_mods_desc" : "Cek status, mengaktifkan dan menonaktifkan mods Lua Anda yang terpasang",
+	"base_options_menu_keybinds" : "Mod Keybinds",
+	"base_options_menu_keybinds_desc" : "Atur keybinds untuk modifikasi lua",
 	"base_options_menu_lua_mod_options" : "Opsi Mod",
 	"base_options_menu_lua_mod_options_desc" : "Atur lua mods Anda",
 
