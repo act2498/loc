@@ -1,8 +1,8 @@
 {
-	"base_options_menu_lua_mods" : "Lua Mods",
-	"base_options_menu_lua_mods_desc" : "Status pruefen, installierte Lua-Mods aktivieren oder deaktivieren",
-	"base_options_menu_keybinds" : "Mod Tastenkuerzel",
-	"base_options_menu_keybinds_desc" : "Tastenkuerzel fur Lua-Mods anpassen",
+	"blt_options_menu_blt_mods" : "Lua Mods",
+	"blt_options_menu_blt_mods_desc" : "Status pruefen, installierte Lua-Mods aktivieren oder deaktivieren",
+	"blt_options_menu_lua_mod_options" : "Mod Tastenkuerzel",
+	"blt_options_menu_lua_mod_options_desc" : "Tastenkuerzel fur Lua-Mods anpassen",
 	"base_options_menu_lua_mod_options" : "Mod Optionen",
 	"base_options_menu_lua_mod_options_desc" : "Lua Mods anpassen",
 
@@ -69,13 +69,25 @@
 	"base_mod_download_download_progress_complete" : "Herunterladen abgeschlossen, bitte Payday2 neustarten!",
 	"base_mod_download_download_progress_failed" : "Herunterladen fehlgeschlagen, bitte erneut versuchen! :(",
 
-	"base_language_select" : "Sprache",
-	"base_language_select_desc" : "Waehle die Sprache, in der Texte der BLT angezeigt werden sollen",
-	"base_language_en" : "Englisch",
-	"base_language_de" : "Deutsch",
-	"base_language_sv" : "Schwedisch",
-	"base_language_fr" : "French",
-	"base_language_ru" : "Russian",
-	"base_language_tr" : "Turkish"
+	"blt_language_select" : "Sprache",
+	"blt_language_select_desc" : "Waehle die Sprache, in der Texte der BLT angezeigt werden sollen",
+
+	"blt_language_chs" : "简体中文/Simplified Chinese",
+	"blt_language_cht" : "正體中文/Traditional Chinese",
+	"blt_language_cs" : "Čeština/Czech",
+	"blt_language_de" : "Deutsch/German",
+	"blt_language_en" : "English",
+	"blt_language_es" : "Español/Spanish",
+	"blt_language_fr" : "Français/French",
+	"blt_language_id" : "Indonesia/Indonesian",
+	"blt_language_it" : "Italiano/Italian",
+	"blt_language_ja" : "Japanese",
+	"blt_language_ko" : "Korean",
+	"blt_language_nl" : "Nederlands/Dutch",
+	"blt_language_pl" : "Polish",
+	"blt_language_pt-br" : "Português Brasileiro/Brazilian Portuguese",
+	"blt_language_ru" : "Russian",
+	"blt_language_sv" : "Svenska/Swedish",
+	"blt_language_tr" : "Turkce/Turkish",
 
 }

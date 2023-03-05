@@ -1,8 +1,8 @@
 {
-	"base_options_menu_lua_mods" : "Lua Mods",
-	"base_options_menu_lua_mods_desc" : "Cek status, mengaktifkan dan menonaktifkan mods Lua Anda yang terpasang",
-	"base_options_menu_keybinds" : "Mod Keybinds",
-	"base_options_menu_keybinds_desc" : "Atur keybinds untuk modifikasi lua",
+	"blt_options_menu_blt_mods" : "Lua Mods",
+	"blt_options_menu_blt_mods_desc" : "Cek status, mengaktifkan dan menonaktifkan mods Lua Anda yang terpasang",
+	"blt_options_menu_lua_mod_options" : "Mod Keybinds",
+	"blt_options_menu_lua_mod_options_desc" : "Atur keybinds untuk modifikasi lua",
 	"base_options_menu_lua_mod_options" : "Opsi Mod",
 	"base_options_menu_lua_mod_options_desc" : "Atur lua mods Anda",
 
@@ -69,13 +69,25 @@
 	"base_mod_download_download_progress_complete" : "Pengunduhan Selesai, Silahkan mulai ulang permainan Anda!",
 	"base_mod_download_download_progress_failed" : "Pengunduhan Sagal, Silahkan coba lagi! :(",
 
-	"base_language_select" : "Bahasa",
-	"base_language_select_desc" : "Pilih bahasa yang akan ditampilkan dalam BLT",
-	"base_language_en" : "Inggris",
-	"base_language_de" : "Jerman",
-	"base_language_fr" : "Perancis",
-	"base_language_id" : "Indonesia",
-	"base_language_ru" : "Rusia",
-	"base_language_tr" : "Turki"
+	"blt_language_select" : "Bahasa",
+	"blt_language_select_desc" : "Pilih bahasa yang akan ditampilkan dalam BLT",
+
+	"blt_language_chs" : "简体中文/Simplified Chinese",
+	"blt_language_cht" : "正體中文/Traditional Chinese",
+	"blt_language_cs" : "Čeština/Czech",
+	"blt_language_de" : "Deutsch/German",
+	"blt_language_en" : "English",
+	"blt_language_es" : "Español/Spanish",
+	"blt_language_fr" : "Français/French",
+	"blt_language_id" : "Indonesia/Indonesian",
+	"blt_language_it" : "Italiano/Italian",
+	"blt_language_ja" : "Japanese",
+	"blt_language_ko" : "Korean",
+	"blt_language_nl" : "Nederlands/Dutch",
+	"blt_language_pl" : "Polish",
+	"blt_language_pt-br" : "Português Brasileiro/Brazilian Portuguese",
+	"blt_language_ru" : "Russian",
+	"blt_language_sv" : "Svenska/Swedish",
+	"blt_language_tr" : "Turkce/Turkish",
 
 }
