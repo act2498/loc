@@ -1,8 +1,8 @@
 {
-	"blt_options_menu_blt_mods" : "Lua Mods",
-	"blt_options_menu_blt_mods_desc" : "Yukledigin Lua modlarinin durumu kontrol et, etkinlestir ve devre disi birak.",
-	"blt_options_menu_lua_mod_options" : "Mod Keybinds",
-	"blt_options_menu_lua_mod_options_desc" : "Lua modlari icin keybindleri ozellestir",
+	"base_options_menu_lua_mods" : "Lua Mods",
+	"base_options_menu_lua_mods_desc" : "Yukledigin Lua modlarinin durumu kontrol et, etkinlestir ve devre disi birak.",
+	"base_options_menu_keybinds" : "Mod Keybinds",
+	"base_options_menu_keybinds_desc" : "Lua modlari icin keybindleri ozellestir",
 	"base_options_menu_lua_mod_options" : "Mod Ayarlari",
 	"base_options_menu_lua_mod_options_desc" : "Lua modlarini ozellestir",
 
